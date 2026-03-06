@@ -1,0 +1,7 @@
+pandas
+sqlalchemy
+plotly
+scipy
+requests
+json
+statsmodels
